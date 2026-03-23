@@ -99,3 +99,10 @@ Checkout my PortFolio: https://aliahmed-ae.vercel.app/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  </a>
 </p>
+<div align="center" >
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=false&textBg=false&animation=twinkling" />
+
+</div>
